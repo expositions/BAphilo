@@ -1,4 +1,4 @@
-Einführung in die analytische Philosophie (AP)
+EinfÃ¼hrung in die analytische Philosophie (AP)
 
 Wilfrid Sellars
 
@@ -9,32 +9,35 @@ Kommentar 2: Willem A. de Vries/Timm Triplett
 Teil 1: Kapitel 1-8 (Erkenntnistheorie) Mythos des Gegebenen
 Teil 2: Mythos von Jones; Philosophie des Geistes
 
-Mythos des Gegebenen: Wissen auf Fundament aus epistemischer Objektivität (fundametalistisch) ? soll inkonsistent sein.
-Sinnesdatentheorie: Unmittelbares Wissen aus Sinnen; Basale Theorie des Relektiven Zweifelwissens. ? Kritik gegen Gedankenfigur des Gegebenen
-Mythos des Jones: Untersuchung von Empfindungen und Gedanken, Existenz von mentalen Objekten. Objekte sind unzugänglich, sondern nicht beobachtbare Entität.
+Mythos des Gegebenen: Wissen auf Fundament aus epistemischer ObjektivitÃ¤t (fundametalistisch) â†’ soll inkonsistent sein.
+Sinnesdatentheorie: Unmittelbares Wissen aus Sinnen; Basale Theorie des Reflektiven Zweifelwissens. â†’ Kritik gegen Gedankenfigur des Gegebenen
+Mythos des Jones: Untersuchung von Empfindungen und Gedanken, Existenz von mentalen Objekten. Objekte sind unzugÃ¤nglich, sondern nicht beobachtbare EntitÃ¤t.
 
-Wendung nur gegen Fundamentalismus, der Sinnesdaten eine falsche Rolle gibt, Falsches hinzufügt.
+Wendung nur gegen Fundamentalismus, der Sinnesdaten eine falsche Rolle gibt, Falsches hinzufÃ¼gt.
 
-Die drei Faktoren für Wissen: Überzeugung, Wahrheit der Überzeugung (Evidenz?), Rechtfertigung der Überzeugung
+Die drei Faktoren fÃ¼r Wissen: Ãœberzeugung, Wahrheit der Ãœberzeugung (Evidenz?), Rechtfertigung der Ãœberzeugung
+
 Kritik an Fundamentalismus:
 
 Darstellung des F:
-Sätze werden abhängig von anderen Sätzen; Bedrohung durch Regress – Quelle für Rechtfertigung nötig? ? Fundament, Rechtfertigung intrinsisch
-Postulat: Erfahrung ist intrinsisch. Erfahrung heißt: Atomismus der Sinne; Sein und Erscheinung lassen sich nicht mehr utnerscheiden. Empfinden als Akt; Empfundener Inhalt ist Sinnesdatum (dieses existiert sicher).
+SÃ¤tze werden abhÃ¤ngig von anderen SÃ¤tzen; Daher Bedrohung durch Regress â†’ Quelle fÃ¼r Rechtfertigung nÃ¶tig!
+Sinnesdatentheorie schafft daher Fundament: Hier ist die Rechtfertigung intrinsisch.
+Postulat: Erfahrung ist intrinsisch. Erfahrung heiÃŸt: Atomismus der Sinne; Sein und Erscheinung lassen sich nicht mehr utnerscheiden. Empfinden als Akt; Empfundener Inhalt ist Sinnesdatum (dieses existiert sicher).
 
-Kondesierte Sätze:
+KondeNsierte SÃ¤tze:
 1. Wenn ich etwas empfinde, beziehe ich mich auf Sinnesdaten.
 2. Empfinden ist eine Form von Wissen.
+
 Empiristen brauchen propositionales Wissen.
 
 Kritik: 
-Wissen bezieht sich auf Tatsachen. Sinnesdaten sind Einzeldinge. Tatsachen sind keine Einzeldinge. Empfinden kann keine Form von Wissen sein. (ontologisches Argument: Sinensdaten besitzen falsche ontologische Kategorie, eignen sich nicht als Relate von Wissensrealtionen, haben falsches Format)
+Wissen bezieht sich auf Tatsachen. Sinnesdaten sind Einzeldinge. Tatsachen sind keine Einzeldinge. Empfinden kann keine Form von Wissen sein. (ontologisches Argument: Sinensdaten besitzen falsche ontologische Kategorie, eignen sich nicht als Relate von Wissensrelationen, haben falsches Format).
 
 Eine These muss aufgegeben werde. Sellars will zweite These aufgeben, aber auch die erste steht zur Diskussion.
 
 In Frage steht die Beziehung zwischen Empfinden eines Sinnesdatums zu nicht-inferentieelem Wissen. 
-Wenn eine Tatsache der Fall ist, fällt eine Tatsache unter einen Begriff.
+Wenn eine Tatsache der Fall ist, fÃ¤llt eine Tatsache unter einen Begriff.
 
-Begriffe müssen erworben sein. Die Fähigkeit zum Empfinden muss also erworben sein. 
+Begriffe mÃ¼ssen erworben sein. Die FÃ¤higkeit zum Empfinden muss also erworben sein. 
 
-Sinnesdaten sind systemisch inert. Können für Rechtfertigung von Wissen keine Rolle spielen. Für Wissen benötigen wir Wissen.
+Sinnesdaten sind systemisch inert. KÃ¶nnen fÃ¼r Rechtfertigung von Wissen keine Rolle spielen. FÃ¼r Wissen benÃ¶tigen wir Wissen.
