@@ -1,7 +1,7 @@
 		Ontologisches P.	Mentalistisches P.	Linguistisches P.
 
-Gegenstand	Sein			Bewusstsein			Sprache
+Gegenstand	Sein			Bewusstsein		Sprache
 
 Frage		Was ist?		Was kann ich erkennen?	Was bedeutet?
 
-Ausgang	Staunen		Zweifel			Verwirrung
+Ausgang		Staunen			Zweifel			Verwirrung

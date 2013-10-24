@@ -1,7 +1,7 @@
 Philosophie und Skepsis
 
-Skepsis ist der Zweifel an der Begründbarkeit von Wahrheit
-Unmöglichkeit, die Wahrheit zu erkennen
+Skepsis ist der Zweifel an der BegrÃ¼ndbarkeit von Wahrheit
+UnmÃ¶glichkeit, die Wahrheit zu erkennen
 Behauptung: Es gibt kein Wahrheitskriterium; Es gibt kein Wissen.
 Klassischer Wahrheitsbegriff
 
@@ -10,6 +10,6 @@ Erkenntnis/Wissen/Episteme
 
 Wichtigste Philosophietraditionen: 
 1. Arbeitet an undefinierbaren Begriffen (Inhaltliche Bestimmung; Kant, Platon, Adorna)
-2. Streben nach besonders sicherem Wissen (intrinsisches Verhältnis von Philosophie und Skepsis. Blumenberg: Was können wir in Evidenz, in Selbstgegebenheit, als Phänomen haben? Was nicht auf dieses Weise gewusst werden kann, ist der phänomenologischen Anstrengung nicht würdig. – Optimum dieser Philosophie: Mathematik.)
+2. Streben nach besonders sicherem Wissen (intrinsisches VerhÃ¤ltnis von Philosophie und Skepsis. Blumenberg: Was kÃ¶nnen wir in Evidenz, in Selbstgegebenheit, als PhÃ¤nomen haben? Was nicht auf dieses Weise gewusst werden kann, ist der phÃ¤nomenologischen Anstrengung nicht wÃ¼rdig. â†’ Optimum dieser Philosophie: Mathematik.)
 
 In zweiter Deutung kann man Philosophie und Skepsis als Antagonisten sehen.
