@@ -1,0 +1,46 @@
+4 Quine
+
+Zur Person. 
+Name: Willard Van Orman Quine. 
+*1908, Studium der Logik in Harvard. 1932 Europareise, Kontakt mit Wiener Kreis, polnischen Logikern. Danach Kontakte mit Carnap. Lehre in Harvard. Gestorben 2000.
+__________________________________________________________
+
+Aufsatz: Two Dogmas of Empiricism (1951). http://www.ditext.com/quine/quine.html
+Untersuchung zweier Dogmen. 1: Unterscheidung anaytischer und synthetischer Wahrheiten. 2: Kritik des Reduktionismus. 
+
+____________________________
+
+Teil 1 − Kritik anayltischer Sätze a priori.
+
+Ein Urteil ist analytisch, …
+A) wenn die Verneinung widersprüchlich ist.
+B) wenn von einem Subjekt ausgesagt wird, was in seinem Begriff schon vorhanden ist.
+C) es aufgrund seiner Bedeutung wahr ist.
+D) es logisch wahr ist, wenn Ausdrücke durch Synonyme ersetzt werden. 
+E) es durch seine semantischen Regeln wahr ist.
+
+Zu A)
+Begriff der Widersprüchlichkeit müsste zunächst selber geklärt werden. Er koinzidiert: Zwar kann durch Logik Widerspruch erkannt werden, doch sind dies andere Widersprüche als die uns interessierenden. 
+
+Zu B) (auch oft bei Kant)
+1. Enthalten-Sein ist metaphorisch. 
+2. Nur anwendbar auf Subjekt-Prädikat-Sätze (Möglicher Satz (nicht von Quine gewählt): Wenn Weimar im Westen Jenas liegt, liegt Jena östlich von Weimar (Vielleicht machte ant hier die Unterscheidung zu synthetischen Sätzen a priori).
+
+Zu C)
+Singuläre Termini sind unterschieden in Bedeutung und Bezugsgegenstand (etwa: der Abendstern).  Allgemeine Termini: Extensionsgleiche Sätze bedeuten oft Verschiedenes. Was ist also Bedeutung selber? Bedeutungen sind aber keine Entitäten, ihr Wesen ist selber erklärungsbedürftig.
+
+Zu D)
+Bedeutung könnte durch Synonymie geklärt werden;  Exkurs: Erst, wenn wir wissen, was analytische Sätze sind, können wir sie verstehen. 
+1. Synonyme als Definition. Lexikografisch:  Scheidet aus, da dies versucht, bereits bestehende Synonymien zu zeigen, erklärt sie aber nicht. Explizierend: Auch nicht, da Verständnis des Synonyms schon vorausgesetzt ist, aber nicht erst hier erklärt wird. Konventionell (willkürliche Behauptung): Kommt selten vor. Alle Definition setzt voraus, dass wir wissen, was Synonyme sind.
+2. Synonyme als Austauschbarkeit Salva Veritate: Ausgetauschter Ausdruck ist in allen Fällen, in allen Welten und Sätzen deckungsgleich. Also Extensionsgleichheit? Soll aber schwierig sein. Ausweg: Einführüng eines neuen Kontexts von modalen Sätzen: Es ist notwendig, dass alle As auch Bs sind. Dies funktioniert zwar, doch ist Notwendigkeit nicht geklärt. Vorschlag: Notwendige Sätze sind analytische Sätze. Das führt aber zu einem Zirkelschluss. 
+
+Zu E)
+
+
+
+
+
+
+
+
+
