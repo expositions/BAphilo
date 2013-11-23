@@ -10,7 +10,7 @@ Untersuchung zweier Dogmen. 1: Unterscheidung anaytischer und synthetischer Wahr
 
 ____________________________
 
-Teil 1 − Kritik anayltischer Sätze a priori.
+Teil 1 − Kritik analytischer Sätze a priori.
 
 Ein Urteil ist analytisch, …
 A) wenn die Verneinung widersprüchlich ist.
@@ -35,8 +35,27 @@ Bedeutung könnte durch Synonymie geklärt werden;  Exkurs: Erst, wenn wir wisse
 2. Synonyme als Austauschbarkeit Salva Veritate: Ausgetauschter Ausdruck ist in allen Fällen, in allen Welten und Sätzen deckungsgleich. Also Extensionsgleichheit? Soll aber schwierig sein. Ausweg: Einführüng eines neuen Kontexts von modalen Sätzen: Es ist notwendig, dass alle As auch Bs sind. Dies funktioniert zwar, doch ist Notwendigkeit nicht geklärt. Vorschlag: Notwendige Sätze sind analytische Sätze. Das führt aber zu einem Zirkelschluss. 
 
 Zu E)
+Einführung einer Liste von analytischen Sätzen. Diese gibt Extension des Prädikats "ist analytisch" an, aber nicht seine Bedeutung.
 
+Fazit: Es gibt keine klare Definition von Analytizität, wir können keine klare Unterscheidung machen; der Verdacht legt nah, es gebe keinen Unterschied zwischen analytischen und synthetischen Sätzen. Es ist eine empirische Frage, ob wir an Sätzen festhalten wollen. 
 
+Warum aber ist dieses Argument problematisch?
+1. Operation mithilfe von Zirkelargumenten. Diese müssen aber per se nicht schlecht sein: Zwar muss, damit ein Begriff verstanden ist, gleich ein anderer verstanden werden, doch ist dies nicht notwendig schlecht.  
+2. Nachweis von Unklarheit steht keine Definition von Klarheit entgegen.  (Versteckte Prämisse: Begriffe müssen letztlich behaviouristisch erklärt werden.) 
+___________________________________________________________________
+Kritik Teil 2: Reduktionismus
+Bedeutung eines Satzes ist die Methode seiner Implikation. Jedem Satz kann Konfiguration von Sinnesdaten zugeordnet werden, die den Satz verifizieren. Dies sei aber nicht durchführbar. Gemäßigte Variante des Red.: Jeder Satz kann in Erfahrung verifiziert/falsifziert werden bzw. Wahrscheinlichkeit erhöhen. Die Vorstellung jedes einzelnen lehnt aber Quine ab. Sätze werden nur im Kollektiv verifiziert. 
+Zentrum des Überzeugungszentrum ist weit von Erfahrung entfernt, Peripherie nahe daran. Bei Falsifikation ist unklar, welcher Teil korrigiert werden muss. Dies kann bis zum logischen Apparat vordringen. Das Netz von Theorien ist durch Erfahrungen unterminiert. Welche Teile revidiert werden, ist prinzipiell irrelevant. Bedeutet auch, dass alle Sätze zur Revision freigegeben werden, auch die Logik.  Logik ist auch empirisch.  
+
+Die beiden Dogmen hängen also zusammen: Wären analytische Sätze unbezweifelbar, gäbe es ein Gebiet ganz sicheren Wissens.  Es gibt aber kein explizit analytisches Satzgebiet, also auch keine klare Grenze zwischen Wissenschaft und Philosophie. Aber genauso erweisen sich teilweise physikalsiche Objekte als kulturelle Objekte. Dies ist eine holistische Entwicklung.
+
+___________________________________________________________________________________________________________________________________________
+
+Kapitel 2 von Quines Hauptwerk: Übersetzung und Bedeutung.
+These von der Unbestimmtheit der Übersetzung.
+Versuch, die EINE Bedeutungstheorie anhand von Verhalten zu entwickeln. 
+Anhand des Szenarios der radikalen Übersetzung:
+Ein Ethnologe versucht die Sprache eines unbekannten Volksstamms zu verstehen; es gibt keine Übersetzer. Zugänglich für ein Übersetzungsmanual ist lediglich das Verhalten der Eingeborenen. Intralinguistisches Verhalten bringt nicht weiter.  Jedoch Beobachtung nichtlinguistischer Ereignisse auf Sprache beobachtbar (Ein Kaninchen hoppelt vorbei: "Gavagei" --> "Da ist ein Kaninchen"), dies kann getestet werden, das setzt Analyse von Zustimmungs- und Ablehnungsverhalten voraus. Einführung von Bedeutung als Reizbedeutung: Davon ausgehend können wir Begriff der Reizsynonymie einführen, wenn auf gleiche Reize gleich reagiert wird. Dies ist auch das Muster von Übersetzung. Reizanalytizität: Zustimmung, egal in welcher Reizsituation der Sprecher sich befindet. 
 
 
 
