@@ -57,6 +57,8 @@ Versuch, die EINE Bedeutungstheorie anhand von Verhalten zu entwickeln.
 Anhand des Szenarios der radikalen Übersetzung:
 Ein Ethnologe versucht die Sprache eines unbekannten Volksstamms zu verstehen; es gibt keine Übersetzer. Zugänglich für ein Übersetzungsmanual ist lediglich das Verhalten der Eingeborenen. Intralinguistisches Verhalten bringt nicht weiter.  Jedoch Beobachtung nichtlinguistischer Ereignisse auf Sprache beobachtbar (Ein Kaninchen hoppelt vorbei: "Gavagei" --> "Da ist ein Kaninchen"), dies kann getestet werden, das setzt Analyse von Zustimmungs- und Ablehnungsverhalten voraus. Einführung von Bedeutung als Reizbedeutung: Davon ausgehend können wir Begriff der Reizsynonymie einführen, wenn auf gleiche Reize gleich reagiert wird. Dies ist auch das Muster von Übersetzung. Reizanalytizität: Zustimmung, egal in welcher Reizsituation der Sprecher sich befindet. 
 
+Quine Bedeutungsskepsis vergleichbar zu Humes Kausalitätsskepsis. Hume: Verstand kann Notwendigkeiten zwischen Sätzen, aber nicht Ereignissen erfassen. Erfahrung kann dies auch nicht, da kein Gegenstand der Notwendigkeit gegeben ist. Also haben wir eigentlich keine Idee von Kausalität. Quine überträgt auf Bedeutung: Wir haben einen Begriff, aber keine Idee. 
+
 
 
 
