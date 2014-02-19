@@ -1,0 +1,120 @@
+Passwort dt-workspace
+eap/EAP
+
+www.ditext.com/sellars → Primärtext »Empiricism and Philosophy of Mind«
+
+Wilfrid Sellars
+
+Werk: Mentis Empirismus und die Philosophie des Geistes
+Kommentar von Brandom als Word-doc (Older courses, Metaphysics, Webseite)
+Kommentar 2: Willem A. de Vries/Timm Triplett
+
+Teil 1: Kapitel 1-8 (Erkenntnistheorie) Mythos des Gegebenen
+Teil 2: Mythos von Jones; Philosophie des Geistes
+
+Mythos des Gegebenen: Wissen auf Fundament aus epistemischer Objektivität (fundametalistisch) → soll inkonsistent sein.
+Sinnesdatentheorie: Unmittelbares Wissen aus Sinnen; Basale Theorie des Reflektiven Zweifelwissens. → Kritik gegen Gedankenfigur des Gegebenen
+Mythos des Jones: Untersuchung von Empfindungen und Gedanken, Existenz von mentalen Objekten. Objekte sind unzugänglich, sondern nicht beobachtbare Entität.
+
+Wendung nur gegen Fundamentalismus, der Sinnesdaten eine falsche Rolle gibt, Falsches hinzufügt.
+
+Die drei Faktoren für Wissen: Überzeugung, Wahrheit der Überzeugung (Evidenz?), Rechtfertigung der Überzeugung
+
+Kritik an Fundamentalismus:
+
+Darstellung des F:
+Sätze werden abhängig von anderen Sätzen; Daher Bedrohung durch Regress → Quelle für Rechtfertigung nötig!
+Sinnesdatentheorie schafft daher Fundament: Hier ist die Rechtfertigung intrinsisch.
+Postulat: Erfahrung ist intrinsisch. Erfahrung heißt: Atomismus der Sinne; Sein und Erscheinung lassen sich nicht mehr utnerscheiden. Empfinden als Akt; Empfundener Inhalt ist Sinnesdatum (dieses existiert sicher).
+
+Kondensierte Sätze:
+1. Wenn ich etwas empfinde, beziehe ich mich auf Sinnesdaten.
+2. Empfinden ist eine Form von Wissen.
+
+Empiristen brauchen propositionales Wissen.
+
+Kritik: 
+Wissen bezieht sich auf Tatsachen. Sinnesdaten sind Einzeldinge. Tatsachen sind keine Einzeldinge. Empfinden kann keine Form von Wissen sein. (ontologisches Argument: Sinensdaten besitzen falsche ontologische Kategorie, eignen sich nicht als Relate von Wissensrelationen, haben falsches Format).
+
+Eine These muss aufgegeben werde. Sellars will zweite These aufgeben, aber auch die erste steht zur Diskussion.
+
+In Frage steht die Beziehung zwischen Empfinden eines Sinnesdatums zu nicht-inferentieelem Wissen. 
+Wenn eine Tatsache der Fall ist, fällt eine Tatsache unter einen Begriff.
+
+Begriffe müssen erworben sein. Die Fähigkeit zum Empfinden muss also erworben sein. 
+
+Sinnesdaten sind systemisch inert. Können für Rechtfertigung von Wissen keine Rolle spielen. Für Wissen benötigen wir Wissen.
+
+
+Vorlesung 2:
+
+Mythos des G. gegen fundamentionalistische Auffassung, diese ist:
+Wissen als Hierarchie der Sätze, die Autorität aus vorhergehenden Sätzen beziehen.
+Basale Sätze haben systemische Autorität nur durch sich selber und für andere.
+Sellars gegen Auffassung, die Basalsätze als Beobachtungssätze sieht.
+Auffassung der Sinnesdaten in F.: Zusammenfall von Sein und Schein; 
+Sinnesdaten werden zumeist in Wahrnehmungstheorien eingeführt: Halluzinationen sind Aggregat von Wahrnehmungen. 
+WELTBEZUG IST VERMITTELT DURCH SINNESDATEN
+
+Sellars kritisiert nicht Sinnesdaten, sondern, dass sie ihre Funktion in Sinnesdatentheorie nicht erfüllen können. 
+Seine Kritik ist einfach und ontologisch: 
+Prämisse:
+Die Quelle von episemischeer OPbjektivität muss immer eine Art von Wissen sein. Nur Wissen kann epistemisches Fundament sein.
+Wissen ist Wissen, DASS etwas ist. Das Korrelat muss satzförmig sein. 
+Was durch einen Satz ausgedrückt wird, ist eine Tatsache, keine Einzeldinge. Sinnesdaten sind Eizeldinge, keine Tatsache. Das HABEN von S. kann kein Wissen sein, also keine Quelle epistemischer Autorität. Sie besitzen nicht das richtige Format.
+
+Exkurs: §16 der B-Auflage der KrV vermutlich zu Sellars beeinflussend. NACHSEHEN! SYLLOGISMUS!
+Anschauungen müssen durch ein »Ich denke« begleitet werden.
+Interpretation des Syllogismus: 
+1. Schwerpunkt auf »Ich«, am meisten verbreitet.
+2. Schwerpunkt auf »denken« (Richtung Sellars): Ohne Denken wären Vorstellungen nichts für mich. Vorstellung müssen im Netz/Raum der Begründungen eingeordnet werden können. Es muss dafür das richtige Format haben. Kant sieht aber ein, dass Anschauungen systemisch relevant sind: Anschauungen müssen zu propositionaler Form konvertiert werden; das ist gegeben, wenn ich es auffasse als etwas, das unter einen Begriff fällt. 
+
+______________________________________________________________________________________________________
+
+ZWEIFEL (Kapitel 2)
+
+Auseinandersetzung mit Alfred Ayers Sinnesdatentheorie.
+Diese ist: Empf. eines Sinnesdatums ist Übersetzung/Code von Nichtinferentiellem Wissen. »Ich empfinde ein Sinnesdatum, das weiß und viereckig ist« sei Übersetzung von »Es scheint mir etwas weiß und viereckig zu sein«.
+
+S.untersucht Übersetzungen: Dies sei nicht zufriedenstellend. Zwei Argumente dagegen:
+1. Übersetzungsstrategie funktioniert oft nicht oder führt zu irreführenden Ergebnissen. Es scheint mir etwas F zu sein → Ich empfinde ein Sinnesdatum, das F ist. Sätze über Empfindungen werden in Sätze über Einzeldinge übersetzt. FÜr diese gälten aber andere Schlussregeln. Lt. Kommentar von Brandom: 1) Ich empfimde ein Sinnesdatum, das polygon ist. 2) Es scheint mir da etwas polygon zu sein. Doch Sinnesdaten sind Einzeldinge, diese sind immer vollständig bestimmt. Das Polygone muss also eine bestimmte Anzahl von Seiten. 1*) Ich empfinde ein Sinnesdatum, dass eine bestimmte Anzahl von Seiten hat. 2*) Es scheint mir etwas eine bestimmte Anzahl von Seiten zu haben. 2* ist nicht aus 2 folgend, ist nicht Teil der Erscheinung! → Laut Sellars. Ausgangssatz und Zielsatz sind nicht identisch, es können falsche Schlüsse entstehen. 
+
+______________________________________________________________________________________________________
+
+Verwurf der Sinnesdatentheorie (Streichung von Schritt B) (Kapitel 3)
+
+Gibt es Tatsachen, die Begründung für F liefern?
+Es-scheint-sätze sind Tatsachen (Mendelsohn an Jacobi: Was scheint, muss wirklich scheinen. → Nicht nur semantisch, sondern auch ontologische Bestimmung des Scheins als absolut gegeben.) Sie scheinen als Dass-Sätze also gute Begründung für Begründung von nicht-inferentiellem Wissen zu sein. Sellars will diese Theorie als Bedeutungstheorie reformulieren. Diese ist: Alle Begriffe, die wir von der Welt haben, sidn aus grundliegenderen Begriffen albgeleitet, wie die Dinge uns scheinen. Begriff wird aus Merkmalen der Erscheinung definiert. Kondensierte These: Alle Begriffe sind zusammengesetzt aus elemenaren Begriffe, die sich aus dem Schein rekrutieren. | Kritik Sellars: Er wendet sich gegen Hierarchismus in zwei Schritten: 1. Begriffe, wie die Welt ist, haben Primat über Begriffe, die sagen, wie die Welt scheint. [Sellars: Wie verwenden wir solche Sätze? → erzählt Geschichte von John. Erfahrung enthält Komponenten (Hier: visueller Eindruck) und Art von Behauptung. Wir schreiben John Erfahrung zu: »Er sieht eine grüne Krawatte«. Das Zuschreiben macht die Aussage zu eigen. Aber aus »Es scheint ihm, dass die Krawatte grün ist« folgt: Wir enthalten uns der Bekräftigung. Es scheint liefert also keinen Bericht ab, sondern ist eine Urteilsenthaltung. Ist-grün hat also das Primat gegenüber Scheint-grün. Es-scheint-Diskurs ist sinnlos. In Sprache ist Sein eingebaut, Scheinen ist nicht so elementar wie Sein! Vom ist-grün kann auf scheint-grün geschlossen werden, adners herum unmöglich, da scheint-grün komplexer ist!] 2. Wir können keine Begriffe über das Sein der Welt einführen, wenn wir nicht schon viele davon haben.Wir können Begriff erst einführen, wenn wir ihn auch anwenden können. Ist-grün erfordert ein Wissen der Standardbedingungen, um den Begriff »grün« zu verwenden. Lernen von Begriffen ist zunächst dressieren → konditionierte Reaktion auf Gegenstand. Wendung gegen semantisches Fundament, daraus folgt, dass es kein erkenntnistheoretisches Fundament. Man kann nicht über einen Begriff verfügen, wenn man nicht über alle/sehr viele verfügt. Möglicher Weg, den Sellars aber nicht einschlägt: Standardbedingung: Wenn etwas so scheint, wie es ist. Also müsste es auch anders herum gelten: Etwas ist, wie es scheint. Wenn man aber nicht über den Es-Scheint-Diskurs verfügt, müsste sich die Welt verändert haben. 
+
+
+Vorlesung 3:
+
+Erscheinungstheorie
+
+Sellars: Es-scheint-Sätze sidn kein Ausdruck von Erscheinungen, sondern nur Urteilsenthaltung! Erfahrungssätze generell 
+
+Es-Scheint-Sätze konstatieren innere Vorkommnisse. 
+
+Es gibt eine Basis, dieses ist nicht-inferentielles Beobachtungswissen. Dieses ist aber nicht voraussetzungslos. 
+Autorität basaler Sätze durch Verlässlichkeit und Wissen um Verlässlichkeit des X-detektors. Ursprung »Da ist etwas Grünes« ist unmittelbar, kausal; Autorität ist nicht unmittelbar setzt weiteres Wissen und Inferenzen voraus. 
+
+Sellars benötigt Internalismus, keinen Externalismus!
+Unterschied folgend:
+Ausgangslage ist klassische Wissensüberzeugung. Frage ist die der Rechtfertigung. Internalisten meinen, dass Rechtfertigung, die zum Wissen dazutritt, etwas ist, zu dem ich reflexiven Zugang habe. (Rechtfertigung: Epistemische Verpflichtungen sind erfüllt). Externalisten meinen, notwendig sei korekte Funktion des kognitiven Apparats. Dann seien die Überzeugungen immer gerechtfertigt, ohne dass Versicherung notwendig oder möglich wäre. Standardbeispiel für das Fehlen der internalistischen Komponente: Baby Chick ... Zitat Linda Zetzky? 
+
+______________________________________________________________________________
+
+Teil 2: Philosophie des Geistes
+
+Zentrale Frage: Wie funktioniert mentales Vokabular? Wie sollen wir die Rede von Gedanken und Sinnesempfindung verstehen?
+Sellars erzählt Mythos von Jones. Rylesche Vorfahren sprechen eine der unseren sehr ähnlcihe Sprache, aber etwas weniger Vokabular. Es feht ein V. über mentale Gegenstände (können nicht über Gedanken und Empfindungen sprechen). Aussagen mit mentalem V. können in kontrafaktisch-konditionale Aussagen übersetzt werden. So sei Wissenschaft auszudrücken. Sellars: Semantik hat nichts mit mentalem Vokabular zu tun!
+ → Exkurs Sellars Bedeutungstheorie.
+Jones erklärt Gedanken aus Sprache (wenn diese fehlt und Leute dennoch handeln, muss es ja Gedanken geben). Durch Training kann die postulierte Entität der Gedanken zu einer wahrhaftigen werden. DIe Grenze des Beobachtbaren ist variabel und verschiebbar. 
+
+Sellars: Wenn eine Theorie gute Gründe für Existenz gewisser Entitäten liefert, können wir daran glauben. Intrinsische Eigenschaften etwa von Gedanken bleiben aber offen. Ist anticartesanisch, naturalistisch, nicht behavioristisch. 
+Empfindungen sind ebenfalls theoretische Entitäten → Sinnesempfindungen. Werden eingeführt, um Verhalten zu erklären. Diese haben aber keine semantischen Eigenschaften! Nicht kommutativ. Darf aber nicht dem Mythos des Gegebenen anheim fallen!
+Denken ist nach innen projiziertes Sprechen. Semantik geht dem Geist voraus.
+___________________________________________________________________________________________
+
+
+Sellars attackiert synthetische Urteile a priori.
